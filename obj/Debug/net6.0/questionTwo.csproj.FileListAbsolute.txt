@@ -1,0 +1,15 @@
+D:\questionTwo\obj\Debug\net6.0\questionTwo.csproj.AssemblyReference.cache
+D:\questionTwo\obj\Debug\net6.0\questionTwo.GeneratedMSBuildEditorConfig.editorconfig
+D:\questionTwo\obj\Debug\net6.0\questionTwo.AssemblyInfoInputs.cache
+D:\questionTwo\obj\Debug\net6.0\questionTwo.AssemblyInfo.cs
+D:\questionTwo\obj\Debug\net6.0\questionTwo.csproj.CoreCompileInputs.cache
+D:\questionTwo\bin\Debug\net6.0\questionTwo.exe
+D:\questionTwo\bin\Debug\net6.0\questionTwo.deps.json
+D:\questionTwo\bin\Debug\net6.0\questionTwo.runtimeconfig.json
+D:\questionTwo\bin\Debug\net6.0\questionTwo.dll
+D:\questionTwo\bin\Debug\net6.0\questionTwo.pdb
+D:\questionTwo\obj\Debug\net6.0\questionTwo.dll
+D:\questionTwo\obj\Debug\net6.0\refint\questionTwo.dll
+D:\questionTwo\obj\Debug\net6.0\questionTwo.pdb
+D:\questionTwo\obj\Debug\net6.0\questionTwo.genruntimeconfig.cache
+D:\questionTwo\obj\Debug\net6.0\ref\questionTwo.dll
